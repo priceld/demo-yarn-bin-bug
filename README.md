@@ -1,5 +1,5 @@
 # demo-yarn-bin-bug
-A simple monorepo to demo a bug with 'yarn bin'
+A simple monorepo to demo a [bug](https://github.com/yarnpkg/yarn/issues/7748) with 'yarn bin'
 
 > Note: This repo uses a yarn policy to ensure version `1.19.2` of yarn is used.
 
