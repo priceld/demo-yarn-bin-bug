@@ -1,0 +1,17 @@
+{
+  "name": "demo-yarn-bin-bug",
+  "version": "1.0.0",
+  "description": "A simple monorepo to demo a bug with 'yarn bin'",
+  "repository": "https://github.com/priceld/demo-yarn-bin-bug.git",
+  "author": "Logan Price",
+  "license": "UNLICENSED",
+  "private": true,
+  "workspaces": {
+    "packages": [
+      "packages/*"
+    ]
+  },
+  "devDependencies": {
+    "semver": "6.3.0"
+  }
+}
