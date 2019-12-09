@@ -11,6 +11,6 @@
     "directory": "packages/my-package"
   },
   "devDependencies": {
-    "semver": "4.0.0"
+    "semver": "6.3.0"
   }
 }
